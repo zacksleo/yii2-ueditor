@@ -34,7 +34,6 @@ UE.registerUI('135editor',function(editor,uiName){
 // 修改最后的undefined参数为数字序号，比如5，可调整135编辑器按钮的顺序。默认出现在最后面
 JS;
         echo $js;
-
     }
 
     public function actionDialog()

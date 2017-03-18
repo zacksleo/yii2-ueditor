@@ -27,12 +27,10 @@ UE.registerUI('dialog', function (editor, uiName) {
             dialog.open();
         }
     });
-
     return btn;
 });
 JS;
         echo $js;
-
     }
 
     public function actionDialog()
