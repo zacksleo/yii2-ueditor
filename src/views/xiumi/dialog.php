@@ -1,5 +1,6 @@
 <?php
 use kucha\ueditor\UEditorAsset;
+
 $assets = UEditorAsset::register($this);
 ?>
 <!DOCTYPE html>

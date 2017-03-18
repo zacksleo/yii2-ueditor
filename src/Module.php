@@ -14,5 +14,4 @@ class Module extends BaseModule
      * @inheritdoc
      */
     public $controllerNamespace = 'zacksleo\yii2\ueditor\controllers';
-
 }
