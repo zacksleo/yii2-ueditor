@@ -1,5 +1,8 @@
 ## Yii2 135编辑/秀米编辑器器扩展
 
+[![Latest Stable Version](https://poser.pugx.org/zacksleo/yii2-ueditor/version)](https://packagist.org/packages/zacksleo/yii2-ueditor)
+[![Total Downloads](https://poser.pugx.org/zacksleo/yii2-ueditor/downloads)](https://packagist.org/packages/zacksleo/yii2-ueditor)
+[![License](https://poser.pugx.org/zacksleo/yii2-ueditor/license)](https://packagist.org/packages/zacksleo/yii2-ueditor)
 
 该插件根据[135编辑器企业插件](http://www.135plat.com/135_ueditor_plugin.html)
 和[秀米编辑器Ueditor插件](http://hgs.xiumi.us/uedit/)封装而来
