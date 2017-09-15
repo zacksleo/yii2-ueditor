@@ -8,4 +8,4 @@ $_SERVER['SCRIPT_FILENAME'] = __FILE__;
 require_once(__DIR__ . '/../vendor/autoload.php');
 require_once(__DIR__ . '/../vendor/yiisoft/yii2/Yii.php');
 Yii::setAlias('@tests', __DIR__);
-Yii::setAlias('@vendor/zacksleo/yii2-ueditor/src/assets', __DIR__ . './../src/assets');
+Yii::setAlias('@vendor/zacksleo/yii2-ueditor/src/assets', __DIR__ . '/./../src/assets');
