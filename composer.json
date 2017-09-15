@@ -11,6 +11,7 @@
   ],
   "minimum-stability": "dev",
   "require": {
+    "yiisoft/yii2": "*",
     "kucha/ueditor": "^1.21"
   },
   "require-dev": {

@@ -4,6 +4,12 @@
 [![Total Downloads](https://poser.pugx.org/zacksleo/yii2-ueditor/downloads)](https://packagist.org/packages/zacksleo/yii2-ueditor)
 [![License](https://poser.pugx.org/zacksleo/yii2-ueditor/license)](https://packagist.org/packages/zacksleo/yii2-ueditor)
 
+[![Travis](https://img.shields.io/travis/zacksleo/yii2-ueditor.svg)]()
+[![Build Status](https://travis-ci.org/zacksleo/yii2-ueditor.svg?branch=master)](https://travis-ci.org/zacksleo/yii2-ueditor)
+[![Code Climate](https://img.shields.io/codeclimate/github/zacksleo/yii2-ueditor.svg)]()
+[![Scrutinizer](https://img.shields.io/scrutinizer/g/zacksleo/yii2-ueditor.svg)]()
+[![Scrutinizer Coverage](https://img.shields.io/scrutinizer/coverage/g/zacksleo/yii2-ueditor.svg)]()
+
 该插件根据[135编辑器企业插件](http://www.135plat.com/135_ueditor_plugin.html)
 和[秀米编辑器Ueditor插件](http://hgs.xiumi.us/uedit/)封装而来
 
