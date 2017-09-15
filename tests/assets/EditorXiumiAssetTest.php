@@ -4,6 +4,7 @@ namespace tests\assets;
 
 use tests\TestCase;
 use zacksleo\yii2\ueditor\assets\EditorXiumiAsset;
+use yii\web\AssetBundle;
 
 /**
  * Class EditorXiumiAssetTest
